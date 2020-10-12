@@ -1,6 +1,6 @@
 # Ontario Housing Prices and Income Trends
 
-This project analyses the change in the housing prices over time in the Southern Ontario region. Also analysed, is if there is any increase or decrease in the housing prices due to COVID-19.
+This project analyses the change in the housing prices over time in the Southern Ontario region. As well as is if there is any increase or decrease in the housing prices due to the COVID-19 Pandemic.
 
 Below are four questions which will be answered through the analysis:
 
